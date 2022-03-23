@@ -21,6 +21,8 @@ yarn install
 ### 3. Use it
 
 ---
-🧡 instagram : @r_0o0_j
-🧡 tistory : r-0o0-j.tistory.com
-🧡 git : YERIEL_RYU
+🧡 Instagram : https://instagram.com/r_0o0_j
+
+🧡 Tistory : https://r-0o0-j.tistory.com
+
+🧡 Git : https://github.com/YERIEL_RYU
