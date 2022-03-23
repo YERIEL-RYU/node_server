@@ -1,6 +1,5 @@
 # Node Server Boilder Plate
 
----
 
 > Node server 초기 세팅을 위한 보일러 플레이트입니다.
 
